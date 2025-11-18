@@ -1,3 +1,5 @@
+#Hola nacho que tal, aquí estoy editando el manage.py
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
